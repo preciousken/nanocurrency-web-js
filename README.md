@@ -1,4 +1,4 @@
-# nanocurrency-web
+# nanocurrency-web 
 
 [![Build Status](https://travis-ci.org/numsu/nanocurrency-web-js.svg?branch=master)](https://travis-ci.org/numsu/nanocurrency-web-js)
 [![npm version](https://badge.fury.io/js/nanocurrency-web.svg)](https://badge.fury.io/js/nanocurrency-web)
